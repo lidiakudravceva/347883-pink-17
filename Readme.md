@@ -1,6 +1,6 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Лидия Кудрявцева](https://up.htmlacademy.ru/adaptive/17/user/347883).
+* Студент: [Лилия Кудрявцева](https://up.htmlacademy.ru/adaptive/17/user/347883).
 * Наставник: `Кекс`.
 
 ---
